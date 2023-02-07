@@ -1,4 +1,4 @@
-# Fawry_like_System (Built with JAVA) (Design patterns and Solid principles are applied, with meaningful variables names)
+# Fawry_like_System (Built in JAVA) (Design patterns and Solid principles are applied, with meaningful variables names)
 ----------------------------------------------------------------------------
 The initial services are:
 
