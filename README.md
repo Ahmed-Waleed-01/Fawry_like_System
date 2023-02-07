@@ -94,3 +94,8 @@ apply.
 the related service and the amount to be refunded. The admin is able to accept
 or reject any refund request and if any refund request got accepted a refund transaction
 is processed.
+
+----------------------------------------------------------------------------
+To run extructions:
+- Use Eclipse IDE and import the folder as project.
+- or take the src folder and open it as a project to any new IDE to configuer and run it.
