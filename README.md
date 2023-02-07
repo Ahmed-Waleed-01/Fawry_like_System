@@ -15,10 +15,12 @@ c. Landline services
   i. Monthly receipt    ii. Quarter receipt
   
 d. Donations
+
   i. Cancer Hospital    ii. Schools   iii. NGOs (Non profitable organizations)
 
 ----------------------------------------------------------------------------
 Design patterns used:
+
 a. Factory design pattern (used in the following classes)
 
   i. Account_Factory
@@ -38,6 +40,16 @@ b. Strategy Pattern: (abstract_class ---> it's different implementaions or it's 
   iv. Donation_Service --->Cancer_Donation_Service, Schools_Donation_Service, NGO_Donation_Service
 
   v. Internet_Service ---> Vodafone_Internet, Etisalat_Internet, Orange_Internet, We_Internet.
+
+c. Singleton Pattern:
+  
+  i. Discount Class.
+
+  ii. Refund_Requests.
+
+  iii. Admin_Factory (saves all accounts and creats object of existing admin if sign in matches , or creates new account and saves it).
+  
+  iv. User_Factory (Same as admin factory)
   
 ----------------------------------------------------------------------------
 Project Requirements:
