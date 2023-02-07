@@ -31,6 +31,7 @@ a. Factory design pattern (used in the following classes)
   iii. Service_Factory 
 
 b. Strategy Pattern: (abstract_class ---> it's different implementaions or it's other abstract children class which has other implementaion children)
+
   i. Service ---> LandLine_Service, Internet_Service, Donation_Service, Mobile_Service
   ii. LandLine_Service ---> Monthly_Landline_service, Quarter_Landline_service
   iii. Mobile_Service ---> Vodafone_Mobile, Etisalat_Mobile, Orange_Mobile, We_Mobile
