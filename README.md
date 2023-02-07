@@ -26,16 +26,23 @@ d. Donations
 ----------------------------------------------------------------------------
 Design patterns used:
 a. Factory design pattern (used in the following classes)
+
   i. Account_Factory
+
   ii. Payment_Factory
+
   iii. Service_Factory 
 
 b. Strategy Pattern: (abstract_class ---> it's different implementaions or it's other abstract children class which has other implementaion children)
 
   i. Service ---> LandLine_Service, Internet_Service, Donation_Service, Mobile_Service
+
   ii. LandLine_Service ---> Monthly_Landline_service, Quarter_Landline_service
+
   iii. Mobile_Service ---> Vodafone_Mobile, Etisalat_Mobile, Orange_Mobile, We_Mobile
+
   iv. Donation_Service --->Cancer_Donation_Service, Schools_Donation_Service, NGO_Donation_Service
+
   v. Internet_Service ---> Vodafone_Internet, Etisalat_Internet, Orange_Internet, We_Internet.
   
 ----------------------------------------------------------------------------
