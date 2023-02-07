@@ -3,25 +3,19 @@
 The initial services are:
 
 a. Mobile recharge services.
-  i. Vodafone
-  ii. Etisalat
-  iii. Orange
-  iv. We
+
+  i. Vodafone   ii. Etisalat   iii. Orange    iv. We
   
 b. Internet Payment services.
-  i. Vodafone
-  ii. Etisalat
-  iii. Orange
-  iv. We
-  
+
+  i. Vodafone   ii. Etisalat   iii. Orange   iv. We
+
 c. Landline services
-  i. Monthly receipt
-  ii. Quarter receipt
+
+  i. Monthly receipt    ii. Quarter receipt
   
 d. Donations
-  i. Cancer Hospital
-  ii. Schools
-  iii. NGOs (Non profitable organizations)
+  i. Cancer Hospital    ii. Schools   iii. NGOs (Non profitable organizations)
 
 ----------------------------------------------------------------------------
 Design patterns used:
